@@ -16,4 +16,5 @@
 -- Step 6: Mart - Update priority roles mart
 .read Projects/2_DW_Mart_Build/06_update_priority_mart.sql
 
-.read Projects/2_DW_Mart_Build/build_marts.sql
+-- Step 7: Mart - Create company prospecting mart (dimensional mart)
+.read Projects/2_DW_Mart_Build/07_create_company_mart.sql
